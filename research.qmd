@@ -1,0 +1,84 @@
+---
+title: "Research"
+pagetitle: "Research — Shayne St. Denis"
+---
+
+:::::: {.column-screen .band .band-soft .hero}
+::::: {.band-inner}
+# Research
+
+::: {.lead}
+Environmental and resource economics · agricultural economics · wildfire and air quality · land and water conservation · applied econometrics and policy evaluation.
+:::
+
+Dissertation: *The Economic Effects of Wildfire Smoke on Canadian Agriculture* — supervised by Dr. Soodeh Saberian.
+:::::
+::::::
+
+<!--
+HOW TO ADD A PAPER
+Copy one of the ::: {.paper} blocks below and edit the text.
+To link a PDF: put the file in the files/ folder, then add a line like
+[PDF](files/my-paper.pdf)
+-->
+
+::: {.section}
+## Current thesis work {.section-label}
+:::
+
+::: {.paper .paper-featured}
+[Dissertation Chapter 1 · In progress]{.pill .pill-dark}
+
+### Wildfire Smoke and Canadian Crop Production
+
+What is the net effect of wildfire smoke on crop production in Canada? This chapter builds a 2006–2023 crop × region × year panel of yields, production and harvested area, and uses wind-driven variation in smoke exposure from distant fires to estimate effects over the growing season and crop-sensitive stages.
+
+Research proposal presented at the UC Berkeley Summer Graduate Camp, 2026.
+
+[Draft available on request](mailto:stdenis1@myumanitoba.ca)
+:::
+
+::: {.section}
+## Working papers {.section-label}
+:::
+
+::: {.paper}
+[PhD field paper · Working paper, 2026]{.pill}
+
+### Wildfire Proximity and Agricultural Land Transaction Values in Manitoba
+
+Do wildfire-prone landscapes capitalize into farmland prices? Using Manitoba agricultural land transactions from 1986–2021 matched to parcel data and Canadian and U.S. wildfire records, the paper compares sales near and away from major fires with a stacked local event-study design.
+
+<!-- [PDF](files/wildfire-proximity-farmland.pdf) -->
+:::
+
+::: {.section}
+## Publications {.section-label}
+:::
+
+::: {.paper}
+[Published · 2026]{.pill .pill-green}
+
+### Costs and Benefits of Wetland Retention in the Riding Mountain Agricultural Region of Manitoba
+
+::: {.citation}
+St. Denis, S., & Carlberg, J. (2026). *Journal of Agricultural Science* (Toronto), 18(5), 1.
+:::
+
+Evaluates 2,549 wetlands in a 1,240 km² Manitoba sub-basin, combining drainage-cost estimates, GIS measures of wetland-to-watercourse distance and ecosystem-benefit classes in a net-present-benefit and supply-curve framework to compare conservation approaches.
+
+<!-- [Journal page](https://...) · [PDF](files/wetland-retention.pdf) -->
+:::
+
+::: {.section}
+## Teaching {.section-label}
+:::
+
+::: {.rows}
+::: {}
+[**ECON 1020** — Introduction to Macroeconomic Principles, University of Manitoba]{} [Winter 2026]{.when}
+:::
+::: {}
+[**ECON 2010** — Microeconomic Theory 1, University of Manitoba]{} [Fall 2025]{.when}
+:::
+:::

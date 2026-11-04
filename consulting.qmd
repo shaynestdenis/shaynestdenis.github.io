@@ -1,0 +1,138 @@
+---
+title: "Consulting"
+pagetitle: "WWGD Research & Consulting — Shayne St. Denis"
+---
+
+:::::: {.column-screen .band .band-dark .hero}
+::::: {.band-inner}
+[WWGD Research & Consulting Inc. · Winnipeg, MB · Since 2022]{.eyebrow}
+
+# Research-grade analysis for business decisions.
+
+::: {.lead}
+WWGD applies the tools of academic economics — causal inference, econometrics and machine learning — to operational and strategic questions, backed by years of market and competitive intelligence work for CBC/Radio-Canada, Corby Spirit & Wine and M-Brain's corporate clients.
+:::
+
+::: {.btn-row}
+[Start a conversation](mailto:shayne.st.denis@gmail.com){.btn-solid} [See selected work](#selected-engagements){.btn-outline}
+:::
+:::::
+::::::
+
+::: {.section}
+## Services {.display}
+
+Including, but not limited to:
+:::
+
+:::: {.card-grid}
+::: {}
+```{=html}
+<svg aria-hidden="true" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#1F5FA8" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3v18h18"/><path d="M7 15l4-4 3 3 5-6"/></svg>
+```
+### Economic & econometric research
+Causal impact studies, cost-benefit analysis, demand and pricing models, and policy evaluation built on panel and quasi-experimental methods.
+:::
+
+::: {}
+```{=html}
+<svg aria-hidden="true" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#1F5FA8" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="12" r="2"/><circle cx="19" cy="5" r="2"/><circle cx="19" cy="19" r="2"/><circle cx="12" cy="12" r="2"/><path d="M7 12h3M14 11l3.5-4.5M14 13l3.5 4.5"/></svg>
+```
+### Machine learning & AI
+Predictive models with explainable outputs (e.g. gradient boosting with SHAP), risk scoring, and practical use of AI tools in analytics workflows.
+:::
+
+::: {}
+```{=html}
+<svg aria-hidden="true" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#1F5FA8" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M15.5 8.5l-2 5-5 2 2-5z"/></svg>
+```
+### Business strategy
+Evidence-based recommendations on markets, pricing and investment, written for executive decision-makers.
+:::
+
+::: {}
+```{=html}
+<svg aria-hidden="true" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#1F5FA8" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M4 6h10M18 6h2M4 12h4M12 12h8M4 18h12"/><circle cx="16" cy="6" r="2"/><circle cx="10" cy="12" r="2"/><circle cx="18" cy="18" r="2"/></svg>
+```
+### Operational optimization
+Efficiency benchmarking, frontier analysis and automated audits that find where operations lose time and money.
+:::
+
+::: {}
+```{=html}
+<svg aria-hidden="true" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#1F5FA8" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="6.5"/><path d="M20 20l-4.4-4.4"/></svg>
+```
+### Competitive intelligence
+Category, competitor and industry analysis with primary and secondary research and regular executive briefings.
+:::
+
+::: {}
+```{=html}
+<svg aria-hidden="true" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#1F5FA8" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="12" cy="5.5" rx="7.5" ry="2.5"/><path d="M4.5 5.5v13c0 1.4 3.4 2.5 7.5 2.5s7.5-1.1 7.5-2.5v-13"/><path d="M4.5 12c0 1.4 3.4 2.5 7.5 2.5s7.5-1.1 7.5-2.5"/></svg>
+```
+### Data analysis & storage
+Reproducible R pipelines, data cleaning and integration across sources, reporting dashboards, and well-structured data storage.
+:::
+::::
+
+:::::: {.column-screen .band .band-soft}
+::::: {.band-inner}
+## Selected engagements {.display #selected-engagements}
+
+::: {.engagement}
+[Freight · Safety]{.tag}
+
+::: {.body}
+### Predictive driver-safety model
+For a Canadian freight carrier: telematics data modelled with XGBoost and explained with SHAP, producing driver risk scores and coaching outputs.
+:::
+:::
+
+::: {.engagement}
+[Freight · Operations]{.tag}
+
+::: {.body}
+### Driver efficiency benchmarking
+Panel stochastic-frontier methods in R to benchmark city pickup-and-delivery driver efficiency.
+:::
+:::
+
+::: {.engagement}
+[Freight · Compliance]{.tag}
+
+::: {.body}
+### Fuel purchase compliance audit
+An automated multi-vendor audit of fuel purchases against daily price benchmarks.
+:::
+:::
+:::::
+::::::
+
+::: {.section}
+## Background {.display}
+:::
+
+::: {.rows}
+::: {}
+[**Senior Specialist, Market Intelligence** — Corby Spirit & Wine]{} [2021–2022]{.when}
+:::
+::: {}
+[**Project Lead, Strategic & Competitive Intelligence** — CBC/Radio-Canada]{} [2019–2021]{.when}
+:::
+::: {}
+[**Research Consultant; Research Analyst** — M-Brain Americas]{} [2016–2019]{.when}
+:::
+:::
+
+:::::: {.column-screen .band .band-dark}
+::::: {.band-inner .cta}
+::: {}
+## Have a question your data should answer?
+WWGD Research & Consulting Inc. · Winnipeg, Manitoba
+:::
+
+::: {.btn-row}
+[shayne.st.denis@gmail.com](mailto:shayne.st.denis@gmail.com){.btn-solid}
+:::
+:::::
+::::::

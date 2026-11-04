@@ -1,0 +1,72 @@
+---
+title: "Shayne St. Denis"
+pagetitle: "Shayne St. Denis — Economist, Consultant, Golf Professional"
+---
+
+:::::: {.column-screen .band .band-soft .hero}
+::::: {.band-inner}
+[PhD Candidate in Economics · University of Manitoba]{.eyebrow}
+
+# I study how wildfire smoke, land and water shape Canadian agriculture.
+
+::: {.lead}
+My research is in environmental, resource and agricultural economics — wildfire and air quality, land and water conservation, and applied econometrics for policy evaluation. Through WWGD Research & Consulting, I bring the same methods to private-sector problems.
+:::
+
+::: {.btn-row}
+[View research](research.qmd){.btn-solid} [Consulting services](consulting.qmd){.btn-outline}
+:::
+:::::
+::::::
+
+::: {.section}
+## Three sides of one toolkit {.display}
+:::
+
+:::: {.card-grid}
+::: {}
+[Academic research]{.eyebrow}
+
+### Wildfire, farmland and conservation
+
+A dissertation on the economic effects of wildfire smoke on Canadian agriculture, a working paper on wildfire proximity and farmland values, and published work on the costs and benefits of wetland retention in Manitoba.
+
+[Papers and publications →](research.qmd)
+:::
+
+::: {}
+[WWGD Research & Consulting]{.eyebrow}
+
+### Research-grade analysis for business
+
+Econometrics, machine learning, strategy and competitive intelligence for organizations — from predictive driver-safety models to fuel-purchase compliance audits for a Canadian freight carrier.
+
+[Services and engagements →](consulting.qmd)
+:::
+
+::: {}
+[Golf professional]{.eyebrow}
+
+### Instruction at Niakwa Country Club
+
+PGA of Canada Class 'A' Apprentice Professional teaching individual and group lessons and junior programming in Winnipeg.
+
+[Golf instruction →](golf.qmd)
+:::
+::::
+
+:::::: {.column-screen .band .band-dark}
+::::: {.band-inner .cta}
+::: {}
+[Current thesis work]{.eyebrow}
+
+## Wildfire Smoke and Canadian Crop Production
+
+What is the net effect of wildfire smoke on crop production in Canada? Using a 2006–2023 crop-by-region panel and wind-driven variation in smoke from distant fires.
+:::
+
+::: {.btn-row}
+[Read more](research.qmd){.btn-solid}
+:::
+:::::
+::::::
