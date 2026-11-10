@@ -19,9 +19,12 @@ website:
         href: golf.qmd
       - text: CV (PDF)
         href: files/St_Denis_CV.pdf
+      - icon: linkedin
+        href: https://www.linkedin.com/in/shayne-st-denis-13603a94/
+        aria-label: LinkedIn profile
   page-footer:
     left: "Department of Economics, University of Manitoba · Winnipeg, Manitoba"
-    right: "[stdenis1@myumanitoba.ca](mailto:stdenis1@myumanitoba.ca) · [shayne.st.denis@gmail.com](mailto:shayne.st.denis@gmail.com)"
+    right: "[stdenis1@myumanitoba.ca](mailto:stdenis1@myumanitoba.ca) · [shayne.st.denis@gmail.com](mailto:shayne.st.denis@gmail.com) · [LinkedIn](https://www.linkedin.com/in/shayne-st-denis-13603a94/)"
 
 format:
   html:

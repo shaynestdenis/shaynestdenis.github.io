@@ -4,7 +4,8 @@ pagetitle: "Golf Instruction — Shayne St. Denis"
 ---
 
 :::::: {.column-screen .band .band-soft .hero}
-::::: {.band-inner}
+::::: {.band-inner .hero-split}
+:::: {.hero-text}
 [PGA of Canada Class 'A' Apprentice Professional]{.eyebrow}
 
 # Golf instruction grounded in evidence.
@@ -14,8 +15,11 @@ I'm an Assistant Golf Professional at Niakwa Country Club in Winnipeg, where I t
 :::
 
 ::: {.btn-row}
-[Book a lesson](mailto:shayne.st.denis@gmail.com?subject=Golf%20lesson){.btn-solid} [Instruction options](#instruction){.btn-outline}
+[Book a lesson](mailto:stdenis@niakwacountryclub.ca?subject=Golf%20lesson){.btn-solid} [Lessons and rates](#lessons-and-rates){.btn-outline}
 :::
+::::
+
+![](files/golf-photo.jpg){.hero-photo fig-alt="Shayne St. Denis on the range at Niakwa Country Club with a young golfer"}
 :::::
 ::::::
 
@@ -34,8 +38,6 @@ I'm an Assistant Golf Professional at Niakwa Country Club in Winnipeg, where I t
 ::: {.section}
 ## Instruction {.display #instruction}
 :::
-
-<!-- Add rates, lesson lengths, group sizes and junior program dates here when ready. -->
 
 :::: {.card-grid}
 ::: {}
@@ -62,6 +64,14 @@ Clinics and small-group sessions for friends, leagues and members who want to le
 Age-appropriate programs that build fundamentals, etiquette and a lasting love of the game.
 :::
 ::::
+
+## Lessons and rates {.display #lessons-and-rates}
+
+Winter 2026–27 programs, taught in the Gallagher Golf Studio coaching bay at Niakwa. To book, email [stdenis@niakwacountryclub.ca](mailto:stdenis@niakwacountryclub.ca?subject=Golf%20lesson).
+
+[![](files/golf-lesson-details.png){.flyer fig-alt="Golf instruction rates with Shayne St. Denis. Adult: single one-hour lesson $90; monthly coaching program (two one-hour sessions per month) $160. Junior: single one-hour lesson $60; monthly coaching program $120. Add-ons: 30-minute practice session $45; coaching bay practice time, 5 hours $175 or 10 hours $300. Book at stdenis@niakwacountryclub.ca."}](files/golf-lesson-details.png)
+
+[Open the full-size rate sheet](files/golf-lesson-details.png){.small-link}
 
 :::::: {.column-screen .band .band-soft}
 ::::: {.band-inner}
@@ -94,7 +104,7 @@ Lessons at Niakwa Country Club · Winnipeg, Manitoba
 :::
 
 ::: {.btn-row}
-[Email me](mailto:shayne.st.denis@gmail.com?subject=Golf%20lesson){.btn-solid}
+[stdenis@niakwacountryclub.ca](mailto:stdenis@niakwacountryclub.ca?subject=Golf%20lesson){.btn-solid}
 :::
 :::::
 ::::::

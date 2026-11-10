@@ -45,11 +45,15 @@ Research proposal presented at the UC Berkeley Summer Graduate Camp, 2026.
 ::: {.paper}
 [PhD field paper · Working paper, 2026]{.pill}
 
-### Wildfire Proximity and Agricultural Land Transaction Values in Manitoba
+### Wildfire Exposure and Farmland Values: Evidence from Manitoba
 
-Do wildfire-prone landscapes capitalize into farmland prices? Using Manitoba agricultural land transactions from 1986–2021 matched to parcel data and Canadian and U.S. wildfire records, the paper compares sales near and away from major fires with a stacked local event-study design.
+Is wildfire exposure capitalized into farmland prices? Linking Manitoba sales records from 1987–2021 to parcel geometry and Canadian wildfire records (56,352 arm's-length sales of bare farmland), the paper measures burned area within 10, 25 and 50 km of each sale and combines sale-level fixed-effects regressions with a stacked event study around large nearby fires.
 
-<!-- [PDF](files/wildfire-proximity-farmland.pdf) -->
+::: {.draft-note}
+**Preliminary draft — comments welcome.** This is a work in progress and subject to change. Please do not cite or circulate without the author's permission.
+:::
+
+[PDF (draft)](files/St_Denis_Wildfire_Farmland_Values_draft.pdf)
 :::
 
 ::: {.section}
@@ -62,12 +66,12 @@ Do wildfire-prone landscapes capitalize into farmland prices? Using Manitoba agr
 ### Costs and Benefits of Wetland Retention in the Riding Mountain Agricultural Region of Manitoba
 
 ::: {.citation}
-St. Denis, S., & Carlberg, J. (2026). *Journal of Agricultural Science* (Toronto), 18(5), 1.
+St. Denis, S., & Carlberg, J. (2026). Costs and Benefits of Wetland Retention in the Riding Mountain Agricultural Region of Manitoba. *Journal of Agricultural Science*, 18(5), 1. [https://doi.org/10.5539/jas.v18n5p1](https://doi.org/10.5539/jas.v18n5p1)
 :::
 
 Evaluates 2,549 wetlands in a 1,240 km² Manitoba sub-basin, combining drainage-cost estimates, GIS measures of wetland-to-watercourse distance and ecosystem-benefit classes in a net-present-benefit and supply-curve framework to compare conservation approaches.
 
-<!-- [Journal page](https://...) · [PDF](files/wetland-retention.pdf) -->
+[Journal article (DOI)](https://doi.org/10.5539/jas.v18n5p1) · [PDF](files/St_Denis_Carlberg_2026_Wetland_Retention_JAS.pdf)
 :::
 
 ::: {.section}

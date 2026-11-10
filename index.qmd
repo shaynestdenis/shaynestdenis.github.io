@@ -29,7 +29,7 @@ My research is in environmental, resource and agricultural economics — wildfir
 
 ### Wildfire, farmland and conservation
 
-A dissertation on the economic effects of wildfire smoke on Canadian agriculture, a working paper on wildfire proximity and farmland values, and published work on the costs and benefits of wetland retention in Manitoba.
+A dissertation on the economic effects of wildfire smoke on Canadian agriculture, a working paper on wildfire exposure and farmland values, and published work on the costs and benefits of wetland retention in Manitoba.
 
 [Papers and publications →](research.qmd)
 :::

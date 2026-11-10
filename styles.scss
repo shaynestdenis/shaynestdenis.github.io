@@ -105,3 +105,20 @@ h2.display { font-size: 2rem; margin: 3.5rem 0 1.5rem; border: 0; }
 .cta { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 1.5rem; }
 .cta h2 { margin: 0 0 0.4rem; font-size: 1.75rem; }
 .cta p { margin: 0; }
+
+/* Golf hero with photo */
+.hero-split { display: flex; flex-wrap: wrap; align-items: center; gap: 3rem; }
+.hero-split .hero-text { flex: 999 1 460px; min-width: 0; }
+.hero-split > p, .hero-split > .quarto-figure, .hero-split > figure { flex: 1 1 280px; max-width: 380px; margin: 0; }
+img.hero-photo { width: 100%; height: auto; border-radius: 8px; display: block; box-shadow: 0 8px 24px rgba(18, 38, 63, 0.12); }
+
+/* Lesson rate sheet */
+img.flyer { display: block; width: 100%; max-width: 760px; height: auto; margin: 0.5rem auto 0; border: 1px solid #E1E7EF; border-radius: 6px; }
+.small-link { display: block; text-align: center; font-size: 0.95rem; margin-top: 0.75rem; }
+
+/* Draft notice on working papers */
+.draft-note { background: #FFF8E6; border-left: 0; border: 1px solid #F0DDAE; border-radius: 6px; padding: 0.8rem 1rem; margin: 0.5rem 0 1rem; }
+.draft-note p { margin: 0; color: #5A4A1E !important; font-size: 0.95rem; line-height: 1.55; }
+
+/* LinkedIn icon in navbar */
+.navbar .bi-linkedin { font-size: 1.15rem; }
