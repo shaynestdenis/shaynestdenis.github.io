@@ -1,6 +1,6 @@
 ---
 title: "Consulting"
-pagetitle: "WWGD Research & Consulting — Shayne St. Denis"
+pagetitle: "WWGD Research & Consulting | Shayne St. Denis"
 ---
 
 :::::: {.column-screen .band .band-dark .hero}
@@ -10,7 +10,7 @@ pagetitle: "WWGD Research & Consulting — Shayne St. Denis"
 # Research-grade analysis for business decisions.
 
 ::: {.lead}
-WWGD applies the tools of academic economics — causal inference, econometrics and machine learning — to operational and strategic questions, backed by years of market and competitive intelligence work for CBC/Radio-Canada, Corby Spirit & Wine and M-Brain's corporate clients.
+WWGD applies the tools of academic economics, including causal inference, econometrics and machine learning, to operational and strategic questions, backed by years of market and competitive intelligence work for CBC/Radio-Canada, Corby Spirit & Wine and M-Brain's corporate clients.
 :::
 
 ::: {.btn-row}
@@ -114,13 +114,13 @@ An automated multi-vendor audit of fuel purchases against daily price benchmarks
 
 ::: {.rows}
 ::: {}
-[**Senior Specialist, Market Intelligence** — Corby Spirit & Wine]{} [2021–2022]{.when}
+[**Senior Specialist, Market Intelligence**, Corby Spirit & Wine]{} [2021–2022]{.when}
 :::
 ::: {}
-[**Project Lead, Strategic & Competitive Intelligence** — CBC/Radio-Canada]{} [2019–2021]{.when}
+[**Project Lead, Strategic & Competitive Intelligence**, CBC/Radio-Canada]{} [2019–2021]{.when}
 :::
 ::: {}
-[**Research Consultant; Research Analyst** — M-Brain Americas]{} [2016–2019]{.when}
+[**Research Consultant; Research Analyst**, M-Brain Americas]{} [2016–2019]{.when}
 :::
 :::
 

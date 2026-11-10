@@ -1,6 +1,6 @@
 ---
 title: "Shayne St. Denis"
-pagetitle: "Shayne St. Denis — Economist, Consultant, Golf Professional"
+pagetitle: "Shayne St. Denis | Economist, Consultant, Golf Professional"
 ---
 
 :::::: {.column-screen .band .band-soft .hero}
@@ -10,7 +10,7 @@ pagetitle: "Shayne St. Denis — Economist, Consultant, Golf Professional"
 # I study how wildfire smoke, land and water shape Canadian agriculture.
 
 ::: {.lead}
-My research is in environmental, resource and agricultural economics — wildfire and air quality, land and water conservation, and applied econometrics for policy evaluation. Through WWGD Research & Consulting, I bring the same methods to private-sector problems.
+My research is in environmental, resource and agricultural economics, with a focus on wildfire and air quality, land and water conservation, and applied econometrics for policy evaluation. Through WWGD Research & Consulting, I bring the same methods to private-sector problems.
 :::
 
 ::: {.btn-row}
@@ -39,7 +39,7 @@ A dissertation on the economic effects of wildfire smoke on Canadian agriculture
 
 ### Research-grade analysis for business
 
-Econometrics, machine learning, strategy and competitive intelligence for organizations — from predictive driver-safety models to fuel-purchase compliance audits for a Canadian freight carrier.
+Econometrics, machine learning, strategy and competitive intelligence for organizations, from predictive driver-safety models to fuel-purchase compliance audits for a Canadian freight carrier.
 
 [Services and engagements →](consulting.qmd)
 :::

@@ -1,6 +1,6 @@
 ---
 title: "Golf"
-pagetitle: "Golf Instruction — Shayne St. Denis"
+pagetitle: "Golf Instruction | Shayne St. Denis"
 ---
 
 :::::: {.column-screen .band .band-soft .hero}
@@ -45,7 +45,7 @@ I'm an Assistant Golf Professional at Niakwa Country Club in Winnipeg, where I t
 <svg aria-hidden="true" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#1F5FA8" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="7" r="3.5"/><path d="M5 20c0-3.9 3.1-7 7-7s7 3.1 7 7"/></svg>
 ```
 ### Individual lessons
-One-on-one coaching built around your game — swing, short game, putting or course management — with a clear plan to practise between sessions.
+One-on-one coaching built around your game, whether that is your swing, short game, putting or course management, with a clear plan to practise between sessions.
 :::
 
 ::: {}
@@ -77,20 +77,20 @@ Winter 2026–27 programs, taught in the Gallagher Golf Studio coaching bay at N
 ::::: {.band-inner}
 ## At the club {.display}
 
-Beyond the lesson tee, I help run the golf operation at Niakwa — the work that makes a season of member golf happen.
+Beyond the lesson tee, I help run the golf operation at Niakwa: the work that makes a season of member golf happen.
 
 ::: {.rows}
 ::: {}
-[**Tournaments and competitions** — club championships, season-long match play and themed member events]{}
+[**Tournaments and competitions:** club championships, season-long match play and themed member events]{}
 :::
 ::: {}
-[**League administration** — scoring, standings and results through Golf Genius]{}
+[**League administration:** scoring, standings and results through Golf Genius]{}
 :::
 ::: {}
-[**Member communications** — event announcements, results and programming updates]{}
+[**Member communications:** event announcements, results and programming updates]{}
 :::
 ::: {}
-[**Shop operations** — back-shop operations and staff supervision]{}
+[**Shop operations:** back-shop operations and staff supervision]{}
 :::
 :::
 :::::

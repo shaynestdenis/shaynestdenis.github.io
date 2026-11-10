@@ -1,6 +1,6 @@
 ---
 title: "Research"
-pagetitle: "Research — Shayne St. Denis"
+pagetitle: "Research | Shayne St. Denis"
 ---
 
 :::::: {.column-screen .band .band-soft .hero}
@@ -11,7 +11,7 @@ pagetitle: "Research — Shayne St. Denis"
 Environmental and resource economics · agricultural economics · wildfire and air quality · land and water conservation · applied econometrics and policy evaluation.
 :::
 
-Dissertation: *The Economic Effects of Wildfire Smoke on Canadian Agriculture* — supervised by Dr. Soodeh Saberian.
+Dissertation: *The Economic Effects of Wildfire Smoke on Canadian Agriculture*, supervised by Dr. Soodeh Saberian.
 :::::
 ::::::
 
@@ -50,7 +50,7 @@ Research proposal presented at the UC Berkeley Summer Graduate Camp, 2026.
 Is wildfire exposure capitalized into farmland prices? Linking Manitoba sales records from 1987–2021 to parcel geometry and Canadian wildfire records (56,352 arm's-length sales of bare farmland), the paper measures burned area within 10, 25 and 50 km of each sale and combines sale-level fixed-effects regressions with a stacked event study around large nearby fires.
 
 ::: {.draft-note}
-**Preliminary draft — comments welcome.** This is a work in progress and subject to change. Please do not cite or circulate without the author's permission.
+**Preliminary draft. Comments welcome.** This is a work in progress and subject to change. Please do not cite or circulate without the author's permission.
 :::
 
 [PDF (draft)](files/St_Denis_Wildfire_Farmland_Values_draft.pdf)
@@ -80,9 +80,9 @@ Evaluates 2,549 wetlands in a 1,240 km² Manitoba sub-basin, combining drainage-
 
 ::: {.rows}
 ::: {}
-[**ECON 1020** — Introduction to Macroeconomic Principles, University of Manitoba]{} [Winter 2026]{.when}
+[**ECON 1020:** Introduction to Macroeconomic Principles, University of Manitoba]{} [Winter 2026]{.when}
 :::
 ::: {}
-[**ECON 2010** — Microeconomic Theory 1, University of Manitoba]{} [Fall 2025]{.when}
+[**ECON 2010:** Microeconomic Theory 1, University of Manitoba]{} [Fall 2025]{.when}
 :::
 :::
